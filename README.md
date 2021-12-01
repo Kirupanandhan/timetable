@@ -16,12 +16,12 @@ Execute the program
 # CODE
 ```
 <!DOCTYPE html>
-<html>
+<html lang='en'>
 <head>
 <title>TimeTable</title>
 </head>
 <body>
-<img src='logo.png' width='100%'> 
+<img src='logo.png'> 
 <table border=5>
 	<tr>
     	<th colspan=8>Timetable</th>
