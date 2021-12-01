@@ -130,3 +130,4 @@ Execute the program
 # OUPUT:
 ![output1](cso.png)
 ![output1](sso.png)
+![output1](validator.png)
