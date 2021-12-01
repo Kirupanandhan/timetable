@@ -21,7 +21,7 @@ Execute the program
 <title>TimeTable</title>
 </head>
 <body>
-<img src='logo.png'> 
+<img src='logo.png' alt='logo'> 
 <table border=5>
 	<tr>
     	<th colspan=8>Timetable</th>
